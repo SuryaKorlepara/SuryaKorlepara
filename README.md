@@ -2,7 +2,7 @@
 - 👀 I’m interested in enjoying my life
 - 🌱 I’m currently learning how to deal life
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me have a sip of cynide
+- 📫 To reach me have a sip of cynide
 
 <!---
 SuryaKorlepara/SuryaKorlepara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
